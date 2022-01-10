@@ -1,0 +1,30 @@
+.box{
+    background-color: rgba(0, 0, 0, 0.4);
+    max-width: 1007px;
+    padding: 20px;
+    margin: 45px auto;
+}
+.box-content{
+    padding:20px;
+}
+.box-content h2{
+    margin: 0;
+}
+.box .header-image{
+    background-image: url('kepek/witcher.jpg');
+    border:2px rgb(255, 255, 255) solid;
+    height:790px;
+    width:965px;
+}
+.box.box-2 .header-image{
+    background-image: url('kepek/breakingbad.jpg');
+    border:2px rgb(255, 255, 255) solid;
+    height:720px;
+    width:965px;
+}
+.box.box-3 .header-image{
+    background-image: url('kepek/punisher.jpg');
+    border:2px rgb(255, 255, 255) solid;
+    height:685px;
+    width:965px;
+}
